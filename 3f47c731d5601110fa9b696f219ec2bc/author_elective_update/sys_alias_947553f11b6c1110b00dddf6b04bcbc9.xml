@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>sn_samgov_spoke.API_KEY</id>
+        <multiple_connections>false</multiple_connections>
+        <name>API_KEY</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2022-07-08 14:28:27</sys_created_on>
+        <sys_id>947553f11b6c1110b00dddf6b04bcbc9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_samgov_spoke.API_KEY</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_alias_947553f11b6c1110b00dddf6b04bcbc9</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2022-07-08 14:31:53</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</application>
+        <file_path/>
+        <instance_id>9e5e7297dbf290d89a4dcac5059619d0</instance_id>
+        <instance_name>appengine4gov</instance_name>
+        <name>sys_alias_947553f11b6c1110b00dddf6b04bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>sn_samgov_spoke.API_KEY</id><multiple_connections>false</multiple_connections><name>API_KEY</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>Marc.Mouries</sys_created_by><sys_created_on>2022-07-08 14:28:27</sys_created_on><sys_id>947553f11b6c1110b00dddf6b04bcbc9</sys_id><sys_mod_count>2</sys_mod_count><sys_name>sn_samgov_spoke.API_KEY</sys_name><sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package><sys_policy/><sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope><sys_update_name>sys_alias_947553f11b6c1110b00dddf6b04bcbc9</sys_update_name><sys_updated_by>Marc.Mouries</sys_updated_by><sys_updated_on>2022-07-08 14:31:53</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-747552875</payload_hash>
+        <record_name>sn_samgov_spoke.API_KEY</record_name>
+        <reverted_from/>
+        <source>21c9cbb51b2c1110b00dddf6b04bcbf7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2022-07-08 14:31:53</sys_created_on>
+        <sys_id>887693b51b6c1110b00dddf6b04bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181de3969c70000001</sys_recorded_at>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2022-07-08 14:31:53</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>007693b5046c1110d37eb40bc72c6e20</update_guid>
+        <update_guid_history>007693b5046c1110d37eb40bc72c6e20:-747552875,bfd55f75f66c1110916533d8089b220a:-631607054,29a5d375486c1110ff8c0eddb36c3c6a:-747552875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2022-07-09 14:08:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>de6d7010329246ba9013190c6f05ba84</sys_id>
+        <sys_metadata>947553f11b6c1110b00dddf6b04bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_samgov_spoke.API_KEY</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_scope_delete display_value="">8d2f5ee1c788486096b9287522e014a4</sys_scope_delete>
+        <sys_update_name>sys_alias_947553f11b6c1110b00dddf6b04bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_alias_947553f11b6c1110b00dddf6b04bcbc9">887693b51b6c1110b00dddf6b04bcb20</sys_update_version>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2022-07-09 14:08:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
