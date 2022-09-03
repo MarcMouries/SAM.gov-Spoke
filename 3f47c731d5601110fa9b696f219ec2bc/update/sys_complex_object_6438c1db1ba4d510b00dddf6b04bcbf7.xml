@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDa038c1dbfaa4d51042b6264a00e399f7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3f47c731d5601110fa9b696f219ec2bc</scope_name>
+        <serialized_content>{"FlowDesigner:FDa038c1dbfaa4d51042b6264a00e399f7":{},"FlowDesigner:FDa038c1dbfaa4d51042b6264a00e399f7.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"fa65d4cd-7aa1-4ec4-b253-ef30d5dc4126\",\"default_value\":\"\",\"label\":\"ED2\",\"mandatory\":\"false\",\"uiUniqueId\":\"3a54e18d-cb9f-4bae-8894-3a0cf1082fe5\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDa038c1dbfaa4d51042b6264a00e399f7\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"7c9857a9-7e71-48d3-b172-6614c7ce312d\",\"hint\":null,\"uiType\":\"object\",\"order\":\"7\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2022-07-12 20:01:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6438c1db1ba4d510b00dddf6b04bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDa038c1dbfaa4d51042b6264a00e399f7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_complex_object_6438c1db1ba4d510b00dddf6b04bcbf7</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2022-07-12 20:01:18</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

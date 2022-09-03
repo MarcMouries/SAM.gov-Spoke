@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDfb057c1fefa0d5103bbba8860f7e47e8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3f47c731d5601110fa9b696f219ec2bc</scope_name>
+        <serialized_content>{"FlowDesigner:FDfb057c1fefa0d5103bbba8860f7e47e8":{"variable_child1":"String","variable_child1.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"variable_child1\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"607f1040-c0a5-406f-ba2e-cb5ba4aa836d\"}"}},"FlowDesigner:FDfb057c1fefa0d5103bbba8860f7e47e8.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"truc\",\"mandatory\":\"false\",\"uiUniqueId\":\"2feca7d3-b661-4207-af46-907d85080a10\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDfb057c1fefa0d5103bbba8860f7e47e8\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2022-07-12 18:37:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f305bc1f1ba0d510b00dddf6b04bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDfb057c1fefa0d5103bbba8860f7e47e8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_complex_object_f305bc1f1ba0d510b00dddf6b04bcb0e</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2022-07-12 18:37:42</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
