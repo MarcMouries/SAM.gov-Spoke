@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Query Builder Results" name="Query Builder Results">c16cfb791b5030107d4c2171604bcb6a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 18:32:15</sys_created_on>
+        <sys_id>a1d1c5c61ba42d10ce2b6579b04bcb69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_wizard_answer_a1d1c5c61ba42d10ce2b6579b04bcb69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 18:32:15</sys_updated_on>
+        <table/>
+        <target_url>sn_samgov_spoke_u_cmdb_qb_result_0e61e9bf71a45bb467b1b462681ce56012b773a1.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</application>
+        <file_path/>
+        <instance_id>9e5e7297dbf290d89a4dcac5059619d0</instance_id>
+        <instance_name>appengine4gov</instance_name>
+        <name>sys_wizard_answer_a1d1c5c61ba42d10ce2b6579b04bcb69</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</answer><button_label/><dependent_value/><element/><name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</name><next_question/><order>100</order><payload_name/><question display_value="Query Builder Results" name="Query Builder Results">c16cfb791b5030107d4c2171604bcb6a</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-23 18:32:15</sys_created_on><sys_id>a1d1c5c61ba42d10ce2b6579b04bcb69</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</sys_name><sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package><sys_policy/><sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope><sys_update_name>sys_wizard_answer_a1d1c5c61ba42d10ce2b6579b04bcb69</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-23 18:32:15</sys_updated_on><table/><target_url>sn_samgov_spoke_u_cmdb_qb_result_0e61e9bf71a45bb467b1b462681ce56012b773a1.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-138495390</payload_hash>
+        <record_name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</record_name>
+        <reverted_from/>
+        <source>29bb108e1b602d10ce2b6579b04bcbee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 18:32:15</sys_created_on>
+        <sys_id>2dd1c5c61ba42d10ce2b6579b04bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185dfe6ff400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 18:32:15</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>25d1c5c65aa42d10aa31b1dcec3ed16a</update_guid>
+        <update_guid_history>25d1c5c65aa42d10aa31b1dcec3ed16a:-138495390</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 21:25:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>3863f321d90f4d2fa7e67bf8e9110e39</sys_id>
+        <sys_metadata>a1d1c5c61ba42d10ce2b6579b04bcb69</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OlDtIi3nvuzGU2QIxjvAvWmAx8YYdUv2-Query Results</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_parent display_value="Query Builder Results">c16cfb791b5030107d4c2171604bcb6a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_scope_delete display_value="">8d2f5ee1c788486096b9287522e014a4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_a1d1c5c61ba42d10ce2b6579b04bcb69</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_a1d1c5c61ba42d10ce2b6579b04bcb69">2dd1c5c61ba42d10ce2b6579b04bcb6a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 21:25:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

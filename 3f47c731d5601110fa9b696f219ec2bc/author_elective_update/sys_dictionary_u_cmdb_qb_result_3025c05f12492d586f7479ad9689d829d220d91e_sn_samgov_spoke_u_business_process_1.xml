@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="sn_samgov_spoke_u_business_process_1" table="u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e">
+        <active>true</active>
+        <array>false</array>
+        <attributes>encode_utf8=false</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Business Process 1</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>sn_samgov_spoke_u_business_process_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="cmdb_ci_business_process">cmdb_ci_business_process</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 20:32:20</sys_created_on>
+        <sys_id>245d11861b682d10ce2b6579b04bcb33</sys_id>
+        <sys_name>Business Process 1</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_dictionary_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e_sn_samgov_spoke_u_business_process_1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 20:32:20</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type/>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</application>
+        <file_path/>
+        <instance_id>9e5e7297dbf290d89a4dcac5059619d0</instance_id>
+        <instance_name>appengine4gov</instance_name>
+        <name>sys_dictionary_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e_sn_samgov_spoke_u_business_process_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="sn_samgov_spoke_u_business_process_1" table="u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Business Process 1</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>sn_samgov_spoke_u_business_process_1</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="cmdb_ci_business_process">cmdb_ci_business_process</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-23 20:32:20</sys_created_on><sys_id>245d11861b682d10ce2b6579b04bcb33</sys_id><sys_name>Business Process 1</sys_name><sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package><sys_policy/><sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope><sys_update_name>sys_dictionary_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e_sn_samgov_spoke_u_business_process_1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-23 20:32:20</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type/><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-953799857</payload_hash>
+        <record_name>u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e.Business Process 1</record_name>
+        <reverted_from/>
+        <source>29bb108e1b602d10ce2b6579b04bcbee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 20:32:20</sys_created_on>
+        <sys_id>2c5d11861b682d10ce2b6579b04bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185e054ee590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 20:32:20</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e05d1186c0682d10b760b9de33ce253b</update_guid>
+        <update_guid_history>e05d1186c0682d10b760b9de33ce253b:-953799857,185d1186d9682d10c2d1af28dbf32928:1774918147,905ddd46b8682d102023146f0eb68fff:-953799857,005ddd461e682d10c9b2fee804cb8fc7:1774918147,734ddd465d682d10517d7b26552019aa:-953799857,719f8d4ea4e42d10b9d3cebb9845a976:1774918147,ad9f4d4e50e42d109704ad9665f349c3:-953799857,659f4d4e75e42d10840d5f69aead5c98:1774918147,559f4d4e5fe42d100ec9562ae7627a24:-953799857,859f0d4e9de42d108baf59335d30daec:1774918147,8d9f0d4ecde42d1020fa86b016621b14:-953799857,32d149c661a42d1030609a1f727e4d37:1774918147,62d149c6a3a42d1077b3a5bc8204021a:-953799857,a2d109c6baa42d10d578a6e0a8d901c9:1774918147,56d109c662a42d1082b0c54a3dcb0593:-953799857,1ad109c610a42d1064d21fb3c4dbed80:1774918147,82d109c623a42d10d8777afc30241657:-953799857,1124b48a78a8e910114cf56a6900e38e:1774918147,7024b48afba8e9104749d90c328a4571:-953799857,f024b48aafa8e910e3255c9a613a395e:1774918147,7024b48a2da8e9100630afcb7d6fee03:-953799857,6c24748a4ba8e91064b9165c06b436ef:1774918147,a024748a82a8e910b0c251e29b31d6d3:-953799857</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 20:32:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>db73d4d378b34550b24b0118c6b39c31</sys_id>
+        <sys_metadata>245d11861b682d10ce2b6579b04bcb33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Process 1</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_scope_delete display_value="">8d2f5ee1c788486096b9287522e014a4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e_sn_samgov_spoke_u_business_process_1</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e_sn_samgov_spoke_u_business_process_1">2c5d11861b682d10ce2b6579b04bcb3b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 20:32:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
