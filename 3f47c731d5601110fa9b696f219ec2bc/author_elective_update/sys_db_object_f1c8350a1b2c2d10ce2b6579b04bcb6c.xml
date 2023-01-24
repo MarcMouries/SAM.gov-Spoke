@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_document_table>false</is_document_table>
+        <is_extendable>false</is_extendable>
+        <label>z2jJ2pwvUA4Spnaf8kbpJsR7vMgVKv1X-Query Results</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>sn_samgov_spoke_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Query Builder Results" name="cmdb_qb_result_base">856cfb791b5030107d4c2171604bcb68</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 22:32:17</sys_created_on>
+        <sys_id>f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sn Samgov Spoke U CMDB Qb Result 3025c05f12492d586f7479ad9689d829d220d91e</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_db_object_f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 22:32:17</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</application>
+        <file_path/>
+        <instance_id>9e5e7297dbf290d89a4dcac5059619d0</instance_id>
+        <instance_name>appengine4gov</instance_name>
+        <name>sys_db_object_f1c8350a1b2c2d10ce2b6579b04bcb6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_document_table>false</is_document_table><is_extendable>false</is_extendable><label>z2jJ2pwvUA4Spnaf8kbpJsR7vMgVKv1X-Query Results</label><live_feed_enabled>false</live_feed_enabled><name>sn_samgov_spoke_u_cmdb_qb_result_3025c05f12492d586f7479ad9689d829d220d91e</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Query Builder Results" name="cmdb_qb_result_base">856cfb791b5030107d4c2171604bcb68</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-23 22:32:17</sys_created_on><sys_id>f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sn Samgov Spoke U CMDB Qb Result 3025c05f12492d586f7479ad9689d829d220d91e</sys_name><sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package><sys_policy/><sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope><sys_update_name>sys_db_object_f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-23 22:32:17</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1881495574</payload_hash>
+        <record_name>z2jJ2pwvUA4Spnaf8kbpJsR7vMgVKv1X-Query Results</record_name>
+        <reverted_from/>
+        <source>29bb108e1b602d10ce2b6579b04bcbee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 22:32:18</sys_created_on>
+        <sys_id>31c8350a1b2c2d10ce2b6579b04bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185e0c2c28b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 22:32:18</sys_updated_on>
+        <type>Table</type>
+        <update_guid>b9c8350abc2c2d10201e07dde4088983</update_guid>
+        <update_guid_history>b9c8350abc2c2d10201e07dde4088983:1881495574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-24 14:01:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>4bb28e89dade455a880aaa83779a3584</sys_id>
+        <sys_metadata>f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sn Samgov Spoke U CMDB Qb Result 3025c05f12492d586f7479ad9689d829d220d91e</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_scope_delete display_value="">8d2f5ee1c788486096b9287522e014a4</sys_scope_delete>
+        <sys_update_name>sys_db_object_f1c8350a1b2c2d10ce2b6579b04bcb6c</sys_update_name>
+        <sys_update_version display_value="sys_db_object_f1c8350a1b2c2d10ce2b6579b04bcb6c">31c8350a1b2c2d10ce2b6579b04bcb84</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-24 14:01:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
