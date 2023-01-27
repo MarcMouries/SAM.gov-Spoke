@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2023-01-26 23:07:36</sys_created_on>
+        <sys_id>48ad9dcf1be4e150ce2b6579b04bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_samgov_spoke_rest_api.sn_samgov_spoke.rest_api_user</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_security_acl display_value="sn_samgov_spoke_rest_api">c0ad9dcf1be4e150ce2b6579b04bcb09</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48ad9dcf1be4e150ce2b6579b04bcb0c</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2023-01-26 23:07:36</sys_updated_on>
+        <sys_user_role display_value="sn_samgov_spoke.rest_api_user" name="sn_samgov_spoke.rest_api_user">44ad5dcf1be4e150ce2b6579b04bcbef</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

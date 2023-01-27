@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="SAM.gov REST API" language="en" table="sn_samgov_spoke_rest_api">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SAM.gov REST API</label>
+            <language>en</language>
+            <name>sn_samgov_spoke_rest_api</name>
+            <plural>SAM.gov REST APIs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Marc.Mouries</sys_created_by>
+            <sys_created_on>2023-01-26 23:07:36</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>SAM.gov REST API</sys_name>
+            <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+            <sys_update_name>sys_documentation_sn_samgov_spoke_rest_api__en</sys_update_name>
+            <sys_updated_by>Marc.Mouries</sys_updated_by>
+            <sys_updated_on>2023-01-26 23:09:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

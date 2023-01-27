@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bd0c110f1be4e150ce2b6579b04bcbaa" label="SAM.gov REST API" max_length="40" name="sn_samgov_spoke_rest_api" type="collection">
+        <element choice="3" label="Response Types" max_length="40" name="response_types" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Entity Found" value="Entity Found"/>
+                <element inactive_on_update="false" label="Entity Not Found" value="Entity Not Found"/>
+                <element inactive_on_update="false" label="Error" value="Error"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd3054a16c62cad10a4e6c293b3c3b210</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3f47c731d5601110fa9b696f219ec2bc</scope_name>
+        <serialized_content>{"FlowDesigner:FDd3054a16c62cad10a4e6c293b3c3b210":{"A6":{"certificationEntryDate":"String","certificationEntryDate.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"certificationEntryDate\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"66e8b9eb-2052-4a21-a46b-b0f491d56769\"}"}},"A6.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"A6\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"2c29f95b-ea42-4818-873b-a46114146ec2\"}"}},"FlowDesigner:FDd3054a16c62cad10a4e6c293b3c3b210.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"an_object\",\"mandatory\":\"false\",\"uiUniqueId\":\"15d1714d-925e-4d97-a81a-d847b5d427fe\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDd3054a16c62cad10a4e6c293b3c3b210\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2023-01-24 18:04:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97054a161b2cad10ce2b6579b04bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd3054a16c62cad10a4e6c293b3c3b210</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_complex_object_97054a161b2cad10ce2b6579b04bcb10</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2023-01-24 18:04:24</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

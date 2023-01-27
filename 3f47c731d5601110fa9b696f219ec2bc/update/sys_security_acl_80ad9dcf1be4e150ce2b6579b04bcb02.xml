@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_samgov_spoke_rest_api</description>
+        <name>sn_samgov_spoke_rest_api</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2023-01-26 23:07:36</sys_created_on>
+        <sys_id>80ad9dcf1be4e150ce2b6579b04bcb02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_samgov_spoke_rest_api</sys_name>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_security_acl_80ad9dcf1be4e150ce2b6579b04bcb02</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2023-01-26 23:07:36</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
