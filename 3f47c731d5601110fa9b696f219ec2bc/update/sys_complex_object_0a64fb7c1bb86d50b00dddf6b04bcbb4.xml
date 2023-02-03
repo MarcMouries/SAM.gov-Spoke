@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4664fb7cdcb86d50d7eb33f7f49c2cb4</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3f47c731d5601110fa9b696f219ec2bc</scope_name>
+        <serialized_content>{"FlowDesigner:FD4664fb7cdcb86d50d7eb33f7f49c2cb4":{"A6":{"certificationExitDate":"Date","certificationExitDate.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Date/Time\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"certificationExitDate\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"certified":"Boolean","certified.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"True/False\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"boolean\",\"default_value\":\"\",\"label\":\"is SBA Certified 8(a)\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"sba_certified_8a":"Boolean","sba_certified_8a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"True/False\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"boolean\",\"default_value\":\"\",\"label\":\"is SBA Certified 8(a)\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"certificationEntryDate":"Date","certificationEntryDate.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Date/Time\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"certificationEntryDate\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"A6.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"SBA Certified 8(a) Program Participant\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD4664fb7cdcb86d50d7eb33f7f49c2cb4.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"SBA Business Type\",\"mandatory\":\"false\",\"uiUniqueId\":\"9752603e-8024-4461-8b5b-51f8bbd49c30\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD4664fb7cdcb86d50d7eb33f7f49c2cb4\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"7\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2023-02-01 20:35:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a64fb7c1bb86d50b00dddf6b04bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD4664fb7cdcb86d50d7eb33f7f49c2cb4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAM.gov Spoke" source="sn_samgov_spoke">3f47c731d5601110fa9b696f219ec2bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM.gov Spoke">3f47c731d5601110fa9b696f219ec2bc</sys_scope>
+        <sys_update_name>sys_complex_object_0a64fb7c1bb86d50b00dddf6b04bcbb4</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2023-02-01 20:35:45</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
